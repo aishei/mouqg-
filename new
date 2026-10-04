@@ -1,0 +1,16 @@
+<section id="streetview">
+  <h2>تجول افتراضي في موقعنا</h2>
+  <iframe
+    src="https://www.google.com/maps/embed?pb=!1m0!3m2!1sar!2siq!4v1696432000000!6m8!1m7!1sFV45+2W+Abu+Al-Khaseeb+Basra+Governorate!2m2!1d30.508!2d47.819!3f0!4f0!5f0.7820865974627469"
+    width="600"
+    height="450"
+    style="border:0;"
+    allowfullscreen=""
+    loading="lazy"
+    referrerpolicy="no-referrer-when-downgrade">
+  </iframe>
+</section>
+
+<a href="https://www.google.com/maps/place/FV45%2B2W+Abu+Al-Khaseeb,+Basra+Governorate" target="_blank">
+  افتح الموقع في Google Maps
+</a>
